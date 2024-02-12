@@ -15,3 +15,4 @@ Install git: brew install git
 .zshrc plugins=(git zsh-autosuggestions zsh-syntax-highlighting web-search)
 
 
+NOTE: Add coolnight.iterm into the Iterm2 terminal colour setting to change colour scheme.
